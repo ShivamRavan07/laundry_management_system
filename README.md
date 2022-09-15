@@ -1,7 +1,7 @@
 # LAUNDRY MANAGEMENT SYSTEM
 
 
-It is a basic PHP project which includes usual database operations like INSERTION, DELETION, UPDATE. This project was done for DBMS mini project.
+It is a basic DBMS project which includes usual database operations like INSERTION, DELETION, UPDATE. This project was done for DBMS mini project.
 
 In order to start this web application first install XAMPP in your system.
 
